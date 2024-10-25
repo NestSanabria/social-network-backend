@@ -1,6 +1,6 @@
 # Red Social Básica
 
-Este es el backend de una red social básica que permite gestionar usuarios, incluyendo registro, inicio de sesión y actualización de perfil.
+Este es el backend de una red social básica que permite gestionar usuarios, incluyendo registro, inicio de sesión, seguir usuarios registrados y actualizar el perfil.
 
 ## Tabla de Contenidos
 
@@ -20,7 +20,6 @@ Este es el backend de una red social básica que permite gestionar usuarios, inc
 1. Clona el repositorio:
 
    git clone https://github.com/NestSanabria/social-network-backend.git
-   cd nombre_del_repositorio
 
 2. npm install
 
