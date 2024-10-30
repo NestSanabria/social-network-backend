@@ -8,11 +8,12 @@ Registro y Autenticación de Usuarios: Permite a los nuevos usuarios registrarse
 
 Gestión de Seguidores: Los usuarios pueden seguir a otros usuarios y ser seguidos, creando una red personalizada y facilitando la interacción.
 
-Publicaciones: Los usuarios pueden crear y compartir publicaciones, permitiendo la expresión y difusión de ideas, imágenes y pensamientos.
+Publicaciones: Los usuarios pueden crear y compartir publicaciones.
 
-Visualización de Contenido: Los usuarios pueden explorar las publicaciones de quienes siguen, manteniéndose actualizados sobre las actividades de sus amigos y conexiones.
+Visualización de Contenido: Los usuarios pueden explorar las publicaciones de quienes siguen y de las personas registradas en la red social, manteniéndose actualizados sobre las actividades de sus amigos y conexiones.
 
 Actualización de Perfil: Los usuarios tienen la capacidad de actualizar su perfil, incluyendo la opción de añadir una imagen de perfil, lo que mejora la personalización y la representación en la red.
+
 
 ## Tabla de Contenidos
 

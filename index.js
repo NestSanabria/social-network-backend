@@ -24,7 +24,7 @@ const app = express();
 const puerto = process.env.PORT || 3900;
 
 // Configurar CORS solo para los dominios permitidos
-const allowedOrigins = ['http://localhost:5173']; //['http://localhost:5173', 'https://frontend-deploy-url.com'];
+const allowedOrigins = ['http://localhost:5173', 'https://social-network-frontend-one.vercel.app'];
 app.use(cors({
   origin: function (origin, callback) {
     if (!origin || allowedOrigins.includes(origin)) {
