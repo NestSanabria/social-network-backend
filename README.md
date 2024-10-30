@@ -2,7 +2,8 @@
 
 Bienvenido a la Red Social Básica, un proyecto diseñado para facilitar la interacción y conexión entre usuarios en un entorno social en línea. Este backend ofrece una serie de características clave para gestionar la experiencia del usuario:
 
-Características
+## Características
+
 Registro y Autenticación de Usuarios: Permite a los nuevos usuarios registrarse y acceder a su cuenta de forma segura mediante autenticación basada en JWT (JSON Web Tokens).
 
 Gestión de Seguidores: Los usuarios pueden seguir a otros usuarios y ser seguidos, creando una red personalizada y facilitando la interacción.
